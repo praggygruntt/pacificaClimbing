@@ -1,0 +1,14 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+nav.customNavbar {
+    color: white;
+    background-color: #00204A;
+}
+a {
+    color: white;
+}
+a:hover {
+    color: #FDB44B;
+    font-weight: bold;
+}
