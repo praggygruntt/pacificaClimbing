@@ -1,5 +1,10 @@
-body{
+html, body{
     font-family: 'Ubuntu', sans-serif;
+    width: 100%;
+    background: #FDB44B; 
+}
+body div.container-fluid {
+    padding: 0;
 }
 nav.customNavbar {
     color: white;
@@ -11,4 +16,19 @@ a {
 a:hover {
     color: #FDB44B;
     font-weight: bold;
+}
+#customSpan {
+    color: white;
+    margin: auto;
+    align-self: center;
+}
+.jumbotron {
+    text-align: center;
+    background: #FDB44B; 
+}
+div.carousel-item img {
+    max-height: 460px;
+}
+div.section2 {
+    background-color: #FDB44B; 
 }
