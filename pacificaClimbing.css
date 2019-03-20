@@ -58,10 +58,14 @@ p {
     font-size: 1.1em;
     color: black;
 }
-.btn {
+div.wrapper button {
     background-color: #C82121;
     color: white;
 }
-.btn:hover {
+div.wrapper button:hover {
     font-size: 1.4em;
+}
+h5.modal-title {
+    text-align: center;
+    margin: auto;
 }
