@@ -1,14 +1,12 @@
 html, body{
     font-family: 'Ubuntu', sans-serif;
-    width: 100%;
-    background: #C82121; 
-}
-body div.container-fluid {
+    background: #dd150c; 
+    margin: 0;
     padding: 0;
 }
 nav.customNavbar {
     color: white;
-    background-color: #0D0CB5;
+    background-color: #000342;
 }
 a {
     color: white;
@@ -34,7 +32,7 @@ div.carousel-item img {
     max-height: 460px;
 }
 div.section2 {
-    background-color: #C82121; 
+    background-color: #dd150c; 
     padding-bottom: 10px;
 }
 .section3 {
@@ -59,7 +57,7 @@ p {
     color: black;
 }
 div.wrapper button {
-    background-color: #C82121;
+    background-color: #dd150c;
     color: white;
 }
 div.wrapper button:hover {
