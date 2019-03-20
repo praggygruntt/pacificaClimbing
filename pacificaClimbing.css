@@ -1,20 +1,20 @@
 html, body{
     font-family: 'Ubuntu', sans-serif;
     width: 100%;
-    background: #FDB44B; 
+    background: #C82121; 
 }
 body div.container-fluid {
     padding: 0;
 }
 nav.customNavbar {
     color: white;
-    background-color: #00204A;
+    background-color: #0D0CB5;
 }
 a {
     color: white;
 }
 a:hover {
-    color: #FDB44B;
+    color: white;
     font-weight: bold;
 }
 #customSpan {
@@ -22,21 +22,25 @@ a:hover {
     margin: auto;
     align-self: center;
 }
+hr{
+    border-bottom: 1px solid white;
+}
 .jumbotron {
     text-align: center;
-    background: #FDB44B; 
+    background: none;
+    color: white;
 }
 div.carousel-item img {
     max-height: 460px;
 }
 div.section2 {
-    background-color: #FDB44B; 
+    background-color: #C82121; 
     padding-bottom: 10px;
 }
 .section3 {
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: #00204A;   
+    background-color: #BECBFF;   
 }
 
 .wrapper {
@@ -52,5 +56,12 @@ div.section2 {
 }
 p {
     font-size: 1.1em;
+    color: black;
+}
+.btn {
+    background-color: #C82121;
     color: white;
+}
+.btn:hover {
+    font-size: 1.4em;
 }
