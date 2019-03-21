@@ -67,3 +67,13 @@ h5.modal-title {
     text-align: center;
     margin: auto;
 }
+.section4Btn {
+    color: white;
+    background-color: #000342;
+    margin: auto;
+    width: 60%;
+}
+.section4Btn:hover {
+    color: black;
+    background-color: #BECBFF;
+}
